@@ -1,0 +1,17 @@
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\bin\Debug\net6.0\Application.dll
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\obj\Debug\net6.0\Application.dll
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\bin\Debug\net6.0\Persistence.dll
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\bin\Debug\net6.0\Persistence.pdb
+C:\Users\BWA001689\source\repos\AkamaiToCosmos\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
