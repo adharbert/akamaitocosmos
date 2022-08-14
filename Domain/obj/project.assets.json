@@ -8,25 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\BWA001689\\.nuget\\packages\\": {},
+    "C:\\Users\\Owner\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BWA001689\\source\\repos\\AkamaiToCosmos\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\code\\Brightway\\Repos\\akamaitocosmos\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\BWA001689\\source\\repos\\AkamaiToCosmos\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\BWA001689\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BWA001689\\source\\repos\\AkamaiToCosmos\\Domain\\obj\\",
+      "projectPath": "D:\\code\\Brightway\\Repos\\akamaitocosmos\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+      "outputPath": "D:\\code\\Brightway\\Repos\\akamaitocosmos\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\BWA001689\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -36,8 +38,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://adh-tech.pkgs.visualstudio.com/6135e84f-a423-4f39-9889-df9d62321bd7/_packaging/DemoFeed/nuget/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://bwinsurance.pkgs.visualstudio.com/BrightwayMiddleTier/_packaging/Brightway.MiddleTier.Package/nuget/v3/index.json": {},
+        "https://bwinsurance.pkgs.visualstudio.com/BWCosmosPkg/_packaging/BrightwayCosmos/nuget/v3/index.json": {},
         "https://bwinsurance.pkgs.visualstudio.com/_packaging/EnterpriseUtility/nuget/v3/index.json": {},
         "https://bwinsurance.pkgs.visualstudio.com/_packaging/MiddleTierSDK/nuget/v3/index.json": {}
       },
@@ -62,7 +66,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -71,7 +76,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.6.22352.1\\RuntimeIdentifierGraph.json"
       }
     }
   }

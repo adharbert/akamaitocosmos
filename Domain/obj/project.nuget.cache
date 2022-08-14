@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OMtjNAkqq4XkS3ERaUJvzHfsCn0QXaasYJkqJ37zOyCsHDhlZooBrldJinrfviU/Sd7YfUrUi1Ss698wVBAx9A==",
+  "dgSpecHash": "8KthpzhC0yBfq04dHqtuRY51LvINxvyBYA4ztpdCF9HbKvZZrgxM3IkteVGZwpF7CMGqoeKvG2Lj3YbLoEE6pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BWA001689\\source\\repos\\AkamaiToCosmos\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\code\\Brightway\\Repos\\akamaitocosmos\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
